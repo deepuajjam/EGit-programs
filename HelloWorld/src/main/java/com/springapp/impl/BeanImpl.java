@@ -6,6 +6,7 @@ public class BeanImpl implements Bean {
 
     public void isABean() {
     	System.out.println("HelloWorld");
+    	System.out.println("EGit app");
     }
 
 }
